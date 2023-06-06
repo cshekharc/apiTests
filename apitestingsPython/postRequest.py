@@ -2,7 +2,6 @@ import requests
 import json
 
 # Replace the API key with your own
-api_key = "dc77eebca384c96122b8a196f70332f5"
 
 # Define the endpoint URL
 rate_url = f"https://api.themoviedb.org/3/movie/550/rating?api_key={api_key}"
