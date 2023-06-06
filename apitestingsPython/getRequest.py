@@ -1,6 +1,5 @@
 import requests
 
-API_KEY = 'dc77eebca384c96122b8a196f70332f5'
 
 url = f'https://api.themoviedb.org/3/movie/top_rated?api_key={API_KEY}&language=en-US&page=1'
 
